@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audi</h1>
-<h3 align="center">A passionate developer and owner of RRHosting from Germany</h3>
+<h3 align="center">A passionate developer, owner of RRHosting and from Germany</h3>
 
 - 🔭 I’m currently working on [RRHosting](https://rrhosting.eu)
 
